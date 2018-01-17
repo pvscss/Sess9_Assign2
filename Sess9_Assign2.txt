@@ -1,0 +1,4 @@
+Task 1 :
+pnorm(-261.667)
+0
+We have to reject our Null Hypothesis
